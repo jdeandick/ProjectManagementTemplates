@@ -41,6 +41,3 @@ Index of the portfolio of template documents for project management that you can
 37.  Stakeholder Register
 
 These templates can be customized to suit the specific needs of your organization and can be used as a starting point for managing projects.
-
-
-Create Detailed Template for Item  #1.
