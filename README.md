@@ -6,15 +6,17 @@ Contents
 
 The following templates are included in this repository:
 
-Change Management Plan.md
-User Acceptance Testing (UAT) Script.md
-Test Plan.md
-Stakeholder Analysis.md
-User Story.md
-Use Case Template.md
-Functional Requirements Document.md
-Business Requirements Document.md
-Project Charter.md
+1. Change Management Plan.md
+2. User Acceptance Testing (UAT) Script.md
+3. Test Plan.md
+4. Stakeholder Analysis.md
+5. User Story.md
+6. Use Case Template.md
+7. Functional Requirements Document.md
+8. Business Requirements Document.md
+9. Project Charter.md
+
+
 Usage
 
 To use these templates, simply download or clone the repository and modify the documents to suit your specific needs. Each template is provided in Markdown format for easy editing and formatting.
